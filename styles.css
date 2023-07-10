@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-
+/* header styles here */
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -11,7 +11,8 @@ body {
     position: relative;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    background-color: #C0C4C5;
 }
 
 .header-content {
@@ -39,3 +40,4 @@ body {
     margin-left: 400px;
 
 }
+/* main section styles here */
